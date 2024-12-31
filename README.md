@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/brandon-posdeley-1b052b1b0/" target="_blank"><img src="https://img.shields.io/badge/Brandon%20Nahuel%20Posdeley-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nahuelposdeley10@gmail.com" target="_blank">
+<a href="mailto:nahuelposdeley10@gmail.com">
   <img src="https://img.shields.io/badge/nahuelposdeley10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Correo Electrónico"/>
 </a>
 </p>
